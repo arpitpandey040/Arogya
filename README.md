@@ -1,4 +1,5 @@
 # ROGYA_PREDICTOR
+https://app-pred-dise.onrender.com/
 
 <!-- HTML and CSS for Header -->
 <div style="background-color: #F8F8F8; padding: 20px;">
@@ -73,9 +74,9 @@
 
 ## Author
 
-Sweety Rani
+Arpit Pandey
 
 ## Contact
 
 
-- Email: sweetyrani005@gmail.com
+- Email: ampandey58@gmail.com
